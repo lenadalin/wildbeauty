@@ -1,0 +1,27 @@
+body {
+    background-color: black;!important;
+    background-image: url("../Images/tan.png");!important;
+    background-repeat: no-repeat;!important;
+ 
+}
+
+.nav-pills {
+    background-color: #000000;
+    color: #fff;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+    background-color:#556064;
+    font-family:cursive;
+}
+a {
+    background-color: transparent;
+}
+
+.input:active {
+border: 1px;
+background-color:#556064;
+border-style: solid;
+}
